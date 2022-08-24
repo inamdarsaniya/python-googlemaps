@@ -1,0 +1,8 @@
+Report for 2022-03-13
+time by car : 11 hr 7 min
+kilometers by car : 587 km
+time by train : 14 hr 20 min
+time by walking : 111 hr
+kilometers by walking : 555 km
+time by flight : 1 hr
+fare by flight : not available
